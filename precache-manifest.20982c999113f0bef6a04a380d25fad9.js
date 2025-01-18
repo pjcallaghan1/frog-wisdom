@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae78b682487994e0c53be77450789bd0",
+    "revision": "9a13fdcc3d5f241c49ac51f749a56414",
     "url": "/frog-wisdom/index.html"
   },
   {
-    "revision": "a5f14cf51ae21be2aebf",
+    "revision": "8bc6438d02b510aeebb3",
     "url": "/frog-wisdom/static/css/main.415956c3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frog-wisdom/static/js/2.ebdf3ede.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5f14cf51ae21be2aebf",
-    "url": "/frog-wisdom/static/js/main.74e98025.chunk.js"
+    "revision": "8bc6438d02b510aeebb3",
+    "url": "/frog-wisdom/static/js/main.eb1dc914.chunk.js"
   },
   {
     "revision": "9adce266881e48aebef2",

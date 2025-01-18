@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frog-wisdom/static/css/main.415956c3.chunk.css",
-    "main.js": "/frog-wisdom/static/js/main.74e98025.chunk.js",
-    "main.js.map": "/frog-wisdom/static/js/main.74e98025.chunk.js.map",
+    "main.js": "/frog-wisdom/static/js/main.eb1dc914.chunk.js",
+    "main.js.map": "/frog-wisdom/static/js/main.eb1dc914.chunk.js.map",
     "runtime-main.js": "/frog-wisdom/static/js/runtime-main.f23d1708.js",
     "runtime-main.js.map": "/frog-wisdom/static/js/runtime-main.f23d1708.js.map",
     "static/js/2.ebdf3ede.chunk.js": "/frog-wisdom/static/js/2.ebdf3ede.chunk.js",
     "static/js/2.ebdf3ede.chunk.js.map": "/frog-wisdom/static/js/2.ebdf3ede.chunk.js.map",
     "index.html": "/frog-wisdom/index.html",
-    "precache-manifest.27a42c1a6b720a2b782193e3dd450771.js": "/frog-wisdom/precache-manifest.27a42c1a6b720a2b782193e3dd450771.js",
+    "precache-manifest.20982c999113f0bef6a04a380d25fad9.js": "/frog-wisdom/precache-manifest.20982c999113f0bef6a04a380d25fad9.js",
     "service-worker.js": "/frog-wisdom/service-worker.js",
     "static/css/main.415956c3.chunk.css.map": "/frog-wisdom/static/css/main.415956c3.chunk.css.map",
     "static/js/2.ebdf3ede.chunk.js.LICENSE.txt": "/frog-wisdom/static/js/2.ebdf3ede.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f23d1708.js",
     "static/js/2.ebdf3ede.chunk.js",
     "static/css/main.415956c3.chunk.css",
-    "static/js/main.74e98025.chunk.js"
+    "static/js/main.eb1dc914.chunk.js"
   ]
 }
