@@ -21,7 +21,8 @@ const wisdomArray = [
   "The best flies come to those who wait patiently by the pond.",
   "Sometimes you need to take a leap without seeing the lily pad.",
   "A frog who follows others never finds their own path to the pond.",
-  "When in doubt, ribbit it out!"
+  "When in doubt, ribbit it out!",
+  "ur mom lol"
 ];
 
 const WiseFrog = () => {
